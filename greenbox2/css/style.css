@@ -1,0 +1,65 @@
+header {
+    width: 995px;
+    height: 70px;
+    background: #00a651;
+}
+
+div.content1 {
+    width: 995px;
+    height: 500px;
+    background: #7cc576;
+}
+
+.section1 {
+    float: left;
+    width: 325px;
+    height: 470px;
+    background: #00a651;
+    color: white;
+    margin: 5px;
+}
+
+.section2 {
+    float: right;
+    width: 325px;
+    height: 235px;
+    margin: 5px;
+    background: #00a651;
+    color: white;
+    text-align: center;
+}
+
+.section3 {
+    float: right;
+    width: 325px;
+    height: 230px;
+    margin: 5px;
+    background: #00a651;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+nav {
+    position: absolute;
+}
+
+.section4 {
+    width: 325px;
+    height: 470px;
+    margin: : 5px;
+    background: #00a651;
+    color: white;
+    float: right;
+}
+
+footer {
+    width: 995px;
+    height: 150px;
+    background: #00a651;
+    color: white;
+}
+
+#dummy {
+    clear: both;
+}
